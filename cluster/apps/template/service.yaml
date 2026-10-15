@@ -8,4 +8,4 @@ spec:
   - port: 80
     targetPort: 3000
   selector:
-    transpire.ocf.io/deployment: templates
+    ocf.berkeley.edu/flux: templates
